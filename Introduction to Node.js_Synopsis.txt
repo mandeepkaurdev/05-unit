@@ -1,0 +1,5 @@
+Introduction to Node.js: Synopsis
+
+Node.js is an open-source server side runtime environment built on Chrome's V8 JavaScript engine. It provides an event driven, non-blocking (asynchronous) I/O and cross-platform runtime environment for building highly scalable server-side application using JavaScript. It is intended to run on a dedicated HTTP server and to employ a single thread with one process at a time. Code built on the Node platform does not follow the traditional model of receive, process, send, wait, receive. Instead, Node processes incoming requests in a constant event stack and sends small requests one after the other without waiting for responses.
+
+Node.js can generate dynamic page content, create, open, read, write, delete, and close files on the server, collect form data, add, delete, modify data in the database. Developers use it to write Command Line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
